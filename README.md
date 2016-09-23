@@ -1,2 +1,2 @@
 # pmbok
-A study in pmp
+Studying the pmbok is now much easier!
